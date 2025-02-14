@@ -7,6 +7,10 @@ torchvision
 torchaudio
 tensorflow[and-cuda]
 jupyter
+langchain
 langgraph
 langsmith
 langchain-ollama
+langchain-community
+langchainhub
+langchain-core
