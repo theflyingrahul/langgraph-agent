@@ -1,0 +1,12 @@
+huggingface-hub
+jupyterlab
+matplotlib
+matplotlib-inline
+torch
+torchvision
+torchaudio
+tensorflow[and-cuda]
+jupyter
+langgraph
+langsmith
+langchain-ollama
